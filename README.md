@@ -5,4 +5,7 @@ bank term deposit product.
 * Robust Scaling Model
 * Logistic Regression, Linear SVM, SelectKBest with mutual info
 * Cross Validation and Mean Score
+* Classifier Modelling with Naive Bayes Classifier, KNN, Decision Tree and Random Forest Classifier
+* Evaluation with Confusion Matrix, Classification Report and ROC Curve
 * Prediction
+  
